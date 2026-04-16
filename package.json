@@ -1,0 +1,20 @@
+{
+  "name": "pw--api-clientes",
+  "version": "1.0.0",
+  "description": "Aula sobre Api-Exemplo oferecido pela Professora",
+  "homepage": "https://github.com/lucassgomess71/pw--api-clientes#readme",
+  "bugs": {
+    "url": "https://github.com/lucassgomess71/pw--api-clientes/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucassgomess71/pw--api-clientes.git"
+  },
+  "license": "ISC",
+  "author": "Lucas Gomes",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
